@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Annotations>
+<Annotation about="tuebl.ca/serie/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="tuebl.ca/books/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="gqpdf.com/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="ebooks.lib.ntu.edu.tw/1_file/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="blah.me/book/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="bookfb2.ru/?p=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="shuge.org/ebook/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="210.37.32.28/bookdetail.asp?bkid=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="chnxp.com.cn/soft/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="staffempire.com/siteinfo/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="haodoo.net/?M=Share&P=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="lib.freescienceengineering.org/view.php?id=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="cslibrary.stanford.edu/*.pdf">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="aupress.ca/index.php/books/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="infoq.com/minibooks/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="ebooks.adelaide.edu.au/*/">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="librivox.org/*-*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="haodoo.net/?M=book&P=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="e-booksdirectory.com/details.php?ebook=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="ebooks.cawok.pro/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="witguides.com/details.asp?id=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="ebooksread.com/authors-eng/*/*-*.shtml">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="bookboon.com/*-ebook">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="*.bookos.org/book/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="libgen.info/view.php?id=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="elibgen.org/view.php?id=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="it-ebooks.info/book/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="*.bookfi.org/book/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="*.bookzz.org/book/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="tuku.cc/comic/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="acmoe.com/comic/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="bilege.com/bk/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="txdzs.com/download/*/index.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="lvsetxt.com/ebook/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="52eshu.com/xiaoshuo/html/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="qisuu.com/Shtml*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="ebuk.cn/book/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="ebuk.cn/pdf/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="tophqbooks.com/books/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="duoduomi.com/ebook/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="epubbud.com/book.php?g=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="wenkudaquan.com/doc/*/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="freecomputerbooks.com/*-*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="qcenglish.com/ebook/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="xiaoshuwu.in/index.php/*/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="magazinesdownload.com/post/*/*.aspx">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="arxiv.org/pdf/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="arxiv.org/abs/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="downarchive.com/ebooks/*/*-*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="2shared.com/document/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="ebook3000.com/*-*_*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="avaxhome.ws/ebooks/*/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="ebookshare.net/*/*-*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="xidong.net/File001/File_*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="qcenglish.com/ebook/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="inien.com/w/">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="inien.com/w/data/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="book.zi5.me/archives/book/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="mises.org/document/*/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="u.bucee.net/dl/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="slideshare.net/*/*-*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="docs.google.com/present/view?id=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="docs.google.com/document/d/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="docs.google.com/open?id=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="docs.google.com/leaf?id=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="docs.google.com/Doc?docid=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="docs.google.com/folder/d/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="docs.google.com/file/d/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="download.csdn.net/detail/*/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="sharej.com/topic/*/">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="cnshare.org/index.php/20*/*-*/">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="*.feedbooks.com/book/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="*.feedbooks.com/userbook/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="www.ohchr.org/Documents/Publications/*.pdf">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="www2.hn.psu.edu/faculty/jmanis/*.htm">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="gutenberg.org/ebooks/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="nirc.nanzan-u.ac.jp/publications/*/*.htm">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="plough.com/ebooks/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="catalog.hathitrust.org/Record/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="manybooks.net/titles/*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="*.us.archive.org/*/items/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="*.edu.cn/*.xlsx">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="*.edu.cn/*.xls">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="*.edu.cn/*.pdf">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="*.edu.cn/*.pptx">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="*.edu.cn/*.ppt">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="*.edu.cn/*.docx">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="*.edu.cn/*.doc">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="wenku.baidu.com/view/*">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+<Annotation about="docin.com/p-*.html">
+<Label name="document" />
+<Label name="_cse_twgom" />
+</Annotation>
+</Annotations>
